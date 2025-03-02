@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvgeniyPryanichnikov/ajs-webpack.git"
+    "url": "git+https://github.com/OlikPr/ajs-webpack.git"
   },
-  "author": "EvgeniyPryanichnikov",
+  "author": "OlikPr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvgeniyPryanichnikov/ajs-webpack/issues"
+    "url": "https://github.com/OlikPr/ajs-webpack/issues"
   },
-  "homepage": "https://github.com/EvgeniyPryanichnikov/ajs-webpack#readme",
+  "homepage": "https://github.com/OlikPr/ajs-webpack#readme",
   "devDependencies": {
     "babel-loader": "^9.1.3",
     "css-loader": "^6.8.1",
